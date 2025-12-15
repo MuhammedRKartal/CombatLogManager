@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Combat Log Manager
+## Notes: Starts combat log when entering raid instances, keeps it open, and manages old logs.
+## Author: Hirohito
+## Version: 1.0
+## SavedVariables: CombatLogManagerDB
+
+CombatLogManager.lua
