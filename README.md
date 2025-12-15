@@ -56,6 +56,11 @@ CombatLogManager helps prevent missing logs and unnecessary log files by handlin
 ## Author
 
 HirohitoW
+## Screenshots
 
-![Disabled Outside Instance]([http://url/to/img.png](https://imgur.com/S3K6oue))
-![Enabled Inside Instance]([http://url/to/img.png](https://imgur.com/tTK1Qee))
+**Combat logging disabled (outside selected raid instance):**  
+![Disabled Outside Instance](https://imgur.com/S3K6oue.png)
+
+**Combat logging enabled (inside selected raid instance):**  
+![Enabled Inside Instance](https://imgur.com/tTK1Qee.png)
+
