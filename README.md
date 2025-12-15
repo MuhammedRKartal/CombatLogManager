@@ -47,15 +47,6 @@ CombatLogManager is a lightweight World of Warcraft (WotLK 3.3.5a) addon that au
 
 ---
 
-## Purpose
-
-CombatLogManager helps prevent missing logs and unnecessary log files by handling combat logging automatically during raids.
-
----
-
-## Author
-
-HirohitoW
 ## Screenshots
 
 **Combat logging disabled (outside selected raid instance):**  
@@ -63,4 +54,11 @@ HirohitoW
 
 **Combat logging enabled (inside selected raid instance):**  
 ![Enabled Inside Instance](https://imgur.com/tTK1Qee.png)
+
+---
+
+## Author
+
+HirohitoW
+
 
